@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="N2K-Dashboard">
+</Property><Property Name="Solution File" Value="G:\Projects\n2kdashboard\n2k-dashboard\N2K-Dashboard.sln">
+</Property><Property Name="Date" Value="Tuesday, May 29, 2012">
+</Property><Property Name="Time" Value="14:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Configuration" Source="Configuration\Configuration.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Configuration" Source="Configuration\Configuration.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Configuration.Test" Source="Configuration.Test\Configuration.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Configuration.Test" Source="Configuration.Test\Configuration.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Communication" Source="Communication\Communication.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Communication" Source="Communication\Communication.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Communication.Test" Source="Communication.Test\Communication.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Communication.Test" Source="Communication.Test\Communication.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Parser.Test" Source="Parser.Test\Parser.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Parser.Test" Source="Parser.Test\Parser.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Parser" Source="Parser\Parser.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Parser" Source="Parser\Parser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="N2kMessages" Source="N2kMessages\N2kMessages.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="N2kMessages" Source="N2kMessages\N2kMessages.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="N2kMessages.Test" Source="N2kMessages.Test\N2kMessages.Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="N2kMessages.Test" Source="N2kMessages.Test\N2kMessages.Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="N2K-Dashboard.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="N2K-Dashboard.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Configuration" Source="Configuration\Configuration.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="3" Project="" Source="LocalTestRun.testrunconfig" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LocalTestRun.testrunconfig" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="3" Project="" Source="N2K-Dashboard.vsmdi" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="N2K-Dashboard.vsmdi" Description="The file was converted to the current format.">
+</Event><Event ErrorLevel="0" Project="Configuration.Test" Source="Configuration.Test\Configuration.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Communication" Source="Communication\Communication.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Communication.Test" Source="Communication.Test\Communication.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Parser.Test" Source="Parser.Test\Parser.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Parser" Source="Parser\Parser.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="N2kMessages" Source="N2kMessages\N2kMessages.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="N2kMessages.Test" Source="N2kMessages.Test\N2kMessages.Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
