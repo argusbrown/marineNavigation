@@ -14,5 +14,3 @@ The only dependency is Stateless (https://github.com/nblumhardt/stateless), whic
 The usage of an abstracted SerialPort to allow dependency injection makes it very easy to test the variety of messages and even to replay a saved stream of data (ie: from files) for validation and performance testing of recorded sailing activities.  This strategy works well for other serial ports besides RS-232 (RS-485, RS-422, etc.).  This abstraction works well with CAN (https://en.wikipedia.org/wiki/CAN_bus) and J1939 vehicle bus systems.
 
 This project was published on Sept. 17, 2015 after being dormant for 3+ years.  If there is interest, I can publish a fork with visual instrumentation and additional message (device) support.
-
-GPL license.
