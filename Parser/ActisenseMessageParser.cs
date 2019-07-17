@@ -58,6 +58,7 @@ namespace Parser
                 byte[] payload = new byte[payloadLength];
 
                 // could check there are enough bytes...
+                if (e.Data.Length - (int)ActisenseN2kMessageFormat.PayloadStart < payloadLength) payloadLength = e.Data.Length - (int)ActisenseN2kMessageFormat.PayloadStart;
                 Array.Copy(e.Data, (int)ActisenseN2kMessageFormat.PayloadStart, payload, 0, payloadLength);
 
                 n2kMessage.Payload = payload;
